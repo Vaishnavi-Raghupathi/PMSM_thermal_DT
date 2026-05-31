@@ -1,0 +1,9 @@
+cat > .gitignore <<EOF
+.venv/
+__pycache__/
+*.pyc
+results/
+data/*.csv
+*.npz
+*.pt
+EOF
