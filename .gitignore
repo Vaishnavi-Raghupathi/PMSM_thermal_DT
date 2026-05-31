@@ -6,4 +6,13 @@ results/
 data/*.csv
 *.npz
 *.pt
-EOF
+EOF.venv/
+data/*.csv
+results/
+*.npz
+*.pt
+.venv/
+data/*.csv
+results/
+*.npz
+*.pt
